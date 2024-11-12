@@ -1,0 +1,14 @@
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\bin\Debug\net8.0\BankingConsole.exe
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\bin\Debug\net8.0\BankingConsole.deps.json
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\bin\Debug\net8.0\BankingConsole.runtimeconfig.json
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\bin\Debug\net8.0\BankingConsole.dll
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\bin\Debug\net8.0\BankingConsole.pdb
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.AssemblyInfoInputs.cache
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.AssemblyInfo.cs
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.csproj.CoreCompileInputs.cache
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.dll
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\refint\BankingConsole.dll
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.pdb
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\BankingConsole.genruntimeconfig.cache
+C:\Users\baidr\source\repos\BankingConsole\BankingConsole\obj\Debug\net8.0\ref\BankingConsole.dll
